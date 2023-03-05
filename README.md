@@ -6,8 +6,6 @@ Class Labels are ["normal", "potholes"]
 
 
 
-
 ## Screenshots
 
-![App Screenshot](https://github.com/parthusun8/pothole_detection/blob/main/assets/cnn.png)
-
+![App Screenshot](https://github.com/parthusun8/pothole_detection/blob/main/assets/cnn.png=250X250)
