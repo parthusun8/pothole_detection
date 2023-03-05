@@ -17,11 +17,19 @@ NORMAL ROAD(from dataset)
 POTHOLE IMAGE(from dataset)
 ![POTHOLE IMAGE](https://github.com/parthusun8/pothole_detection/blob/main/test/potholes/319.jpg)
 
+
 ## Run Locally
 
 ```bash
 Open the pothole_detection.ipynb file
 ```
+
+Anytime You might get a warning saying 'THIS NOTEBOOK IS HOSTED BY .. so on'. 
+
+```bash
+Click on Run Anyway
+```
+
 Now in colab,
 ```bash
 Go to Runtime Tab
