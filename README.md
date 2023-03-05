@@ -20,6 +20,10 @@ POTHOLE IMAGE(from dataset)
 
 ## Run Locally
 
+NOTE
+
+MAKE Sure to allow download multiple files when popup shows up
+
 ```bash
 Open the pothole_detection.ipynb file
 ```
