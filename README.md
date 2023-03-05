@@ -6,10 +6,13 @@ Class Labels are ["normal", "potholes"]
 
 
 
-## Screenshots
-
+CNN ARCHITECHTURE
 ![CNN ARCHITECHTURE](https://github.com/parthusun8/pothole_detection/blob/main/assets/cnn.png)
 
+
+NORMAL ROAD(from dataset)
 ![NORMAL IMAGE](https://github.com/parthusun8/pothole_detection/blob/main/train/normal/93.jpg)
 
+
+POTHOLE IMAGE(from dataset)
 ![POTHOLE IMAGE](https://github.com/parthusun8/pothole_detection/blob/main/test/potholes/319.jpg)
