@@ -8,4 +8,8 @@ Class Labels are ["normal", "potholes"]
 
 ## Screenshots
 
-![App Screenshot](https://github.com/parthusun8/pothole_detection/blob/main/assets/cnn.png)
+![CNN ARCHITECHTURE](https://github.com/parthusun8/pothole_detection/blob/main/assets/cnn.png)
+
+![NORMAL IMAGE](https://github.com/parthusun8/pothole_detection/blob/main/train/normal/93.jpg)
+
+![POTHOLE IMAGE](https://github.com/parthusun8/pothole_detection/blob/main/test/potholes/319.jpg)
